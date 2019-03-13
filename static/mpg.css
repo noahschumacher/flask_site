@@ -1,5 +1,5 @@
 body {
-    background-color: #cccccc;
+    background-color: #e07777;
 }
 
 img {
@@ -33,9 +33,9 @@ label {
 }
 
 input {
-    background-color: tomato;
+    background-color: white;
     border: 1px solid red;
-    width: 200px;
+    width: 120px;
     ;
 }
 
