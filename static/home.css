@@ -1,0 +1,17 @@
+#HomeHeader{
+	background-color: #dc9191;
+	border: 3px dashed white;
+	margin: 25px;
+	padding: 25px;
+}
+
+#HomeHeader2{
+	background-color: #aff3a3;
+	border: 3px dashed green;
+	margin: 25px;
+	padding: 25px;
+}
+
+p.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
